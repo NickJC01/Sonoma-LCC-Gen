@@ -1,3 +1,5 @@
+Welcome to our Sonoma County Land-Cover Classification Project. This was a project authored by Broderick Noyes, and Nicholas Slankard, and myself. This project sought to generate accurate land-cover-classifications to a 10-meter pixel map of the entirety of Sonoma County. We sought to do this accurately utilizing only the 64 GEE Embeddings provided by Google without any other supplementary data, implementing a variety of neural networks and computer vision models to do so. 
+
 This project was run on Google Colab, and includes Drive Mounting and Google Earth Engine imports. If you do not have access to our shared drive, the mounting will not work. However, the purpose of the drive mounting is to be able to reference our data with paths. You should be able to run our code on your own drive or local machine by changing the paths accordingly. Many of our models have a cell that looks like this:
 
 _
